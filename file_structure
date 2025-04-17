@@ -1,0 +1,11 @@
+.
+├── LICENSE
+├── README.md
+├── __pycache__
+│   └── summarizer.cpython-312.pyc
+├── app.py
+├── file_structure
+├── requirements.txt
+└── summarizer.py
+
+2 directories, 7 files
