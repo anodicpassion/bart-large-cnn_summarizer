@@ -18,10 +18,15 @@ This project is a desktop-based application that allows users to simulate a chat
 ## 📸 Glimpse of the UI
 
 Below is screenshot showcasing the user interface and summarization output:
+<center>  
+<img width="500" alt="Screenshot 2025-04-17 at 4 39 57 PM" src="https://github.com/user-attachments/assets/2fc3251f-f3cf-4c76-8402-77dafe02fd0d" />
+</center>
+
 
 ## 📥 Installation
 
 ### 1. Create and activate a virtual environment:
+
 
 ```shell
 python -m venv venv
